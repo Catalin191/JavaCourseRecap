@@ -1,0 +1,6 @@
+Create a class called „Dog”.
+a) Create a declaration for all required fields, like „name”, „age”, ...
+b) Create default constructor that will be able to set instantiate those values.
+c) Create a method, that will print default sound that dog can emit.
+d) *Sound should depend on the dogs age.
+e) Print that sound to the console. Change dogs age, print it once more.
