@@ -16,7 +16,7 @@ package javaFundamentals.exOperators;
 //System.out.println(x <= y && y > 5);
 //System.out.println(„abc” instanceof String);
 
-public class ex1 {
+public class Ex1 {
     public static void main(String[] args) {
         int x = 4;
         System.out.println(x++); //4

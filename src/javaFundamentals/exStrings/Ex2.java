@@ -10,7 +10,7 @@ package javaFundamentals.exStrings;
 //System.out.println(b == c);
 //System.out.println(b.equals(c));
 
-public class ex2 {
+public class Ex2 {
     public static void main(String[] args) {
             String a = "abc";
             String b = "abc";

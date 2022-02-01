@@ -5,7 +5,7 @@ package javaFundamentals.exDataTypesAndVariables;
 //Input: 192, 168, 1, 10
 //Output: „C0:A8:01:0A”
 
-public class ex7 {
+public class Ex7 {
     public static void main(String[] args) {
         System.out.printf("%02X ", 192, 168, 1, 10);
         System.out.printf("%02X ", 168, 1, 10);

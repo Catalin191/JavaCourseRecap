@@ -2,7 +2,7 @@ package javaFundamentals.exDataTypesAndVariables;
 
 //3. Do the same as above for other numeric types (long, double, byte..). Check results.
 
-public class ex3 {
+public class Ex3 {
     public static void main(String[] args) {
         byte num1 = 5;
         long num2 = 3947563957394L;

@@ -4,7 +4,7 @@ package javaFundamentals.exFirstApplicationModification;
 //Hello, World!
 //It’s a great day, to learn something new.
 
-public class ex3 {
+public class Ex3 {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
         System.out.println("It's a great day, to learn something new.");

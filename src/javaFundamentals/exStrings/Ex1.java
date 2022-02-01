@@ -9,7 +9,7 @@ package javaFundamentals.exStrings;
 
 import java.util.Locale;
 
-public class ex1 {
+public class Ex1 {
     public static void main(String[] args) {
         String lorem = "Lorem ipsum dolor sit amet, consectetur adipiscing elit";
 

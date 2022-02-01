@@ -6,7 +6,7 @@ package javaFundamentals.exDataTypesAndVariables;
 //19
 //187.2342
 
-public class ex1 {
+public class Ex1 {
     public static void main(String[] args) {
         int num1 = 15;
         double num2 = 15.35375;

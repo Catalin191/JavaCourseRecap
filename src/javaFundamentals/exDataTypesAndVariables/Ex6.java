@@ -5,7 +5,7 @@ package javaFundamentals.exDataTypesAndVariables;
 //Input: 3.23523
 //Output: 3.23
 
-public class ex6 {
+public class Ex6 {
     public static void main(String[] args) {
         double num = 3.23523;
 

@@ -4,7 +4,7 @@ package javaFundamentals.exFirstApplicationModification;
 //Hello,
 //World!
 
-public class ex4 {
+public class Ex4 {
     public static void main(String[] args) {
         System.out.println("Hello, \nWorld!");
     }
