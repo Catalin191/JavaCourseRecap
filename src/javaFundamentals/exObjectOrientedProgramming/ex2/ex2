@@ -1,0 +1,5 @@
+Create a class called „Room”.
+a) Create a declaration for all required fields, like „width”, „height”, ...
+b) Create default constructor that will be able to set instantiate those values.
+c) Create methods, that will calculate rooms surface area and volume.
+d) Print calculated values to the console.
